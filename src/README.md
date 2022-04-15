@@ -6,6 +6,8 @@ early- and mid-career researchers (EMCRs) in the
 
 I've made this change in the master branch of a fork.
 
+And I'll make a second edit to hopefully trigger the deploy action!
+
 ## How to contribute
 
 If you have any comments, feedback, or suggestions, please see the [How to contribute](how-to-contribute.md) page.
